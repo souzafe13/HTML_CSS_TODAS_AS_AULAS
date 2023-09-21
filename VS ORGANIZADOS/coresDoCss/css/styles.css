@@ -1,0 +1,73 @@
+/* Nome das cores */
+.color-name{
+    color:crimson;
+}
+
+/* RGB */
+.rgb{
+    color: rgb(255,0,0);
+}
+.rgb-misturado{
+    color: rgb(199,140,47);
+}
+/* RGBA */
+.rgba{
+    color: rgba(255,0,0,0.3);
+}
+
+/* HEX */
+.hex{
+    color: #13a109;
+}
+
+.hex2{
+    color: #5d07ce;
+}
+
+/* Hexadecimal simplificado */
+
+.hex-simplificado{
+    color: #a5a;
+}
+.hex-simplificado2{
+    color: #f13e;
+}
+/* HSL */
+
+.hsl{
+    color: hsl(100, 20%, 50%)
+}
+
+.hsl-2{
+    color: hsl(199,44%,58%);
+}
+
+/* Background color no corpo do site */
+
+body{
+    background-color:beige;
+}
+
+/* Background color  */
+
+.backgroundcolor{
+    background-color: #000;
+    color: gold
+}
+
+.bg-2{
+    background-color: rgb(100,50,33);
+    color: #00ffaa;
+}
+
+/* Opacidade no Background color */
+
+.bg-sem-opacidade{
+    background-color: red;
+    opacity: 0.2;
+}
+.bg-com-opacidade{
+    background-color: #888;
+    color: black;
+    opacity: 0.5;
+}
