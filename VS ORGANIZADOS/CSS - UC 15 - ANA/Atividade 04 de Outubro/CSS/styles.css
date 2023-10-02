@@ -1,0 +1,58 @@
+/* Atividade de 04 de Outubro - Mesa Brasil SESC */
+
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
+
+
+
+.centralizar-container-1{
+    text-align: center;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    /* Fonte da máquina acima */
+    padding: 10px;
+    text-decoration: underline;
+    
+}
+
+.centralizar-container-2-box-model{
+    background-color: beige;
+    font-family: 'Fuggles', cursive;
+    /* Fonte do Google acima */
+    color:black;
+    text-align: justify;
+    width: 350px;
+    border: 2px solid blanchedalmond;
+    padding: 5px 5px 8px 8px;
+    margin: auto;
+    border-radius: 8px;
+    height: 375px;
+    font-size:medium;
+    /* Tentei utilizar todos os elementos do do box model dentro desta classe */
+}
+
+.centralizar-container-3-box-model{
+    background-color: beige;
+    font-family: 'Fuggles', cursive;
+    /* Usei a mesma fonte do Google da primeira parte */
+    color: black;
+    text-align: justify;
+    width: 350px;
+    border: 2px solid blanchedalmond;
+    padding: 5px 5px 8px 8px;
+    margin: auto;
+    border-radius: 8px;
+    height: 220px;
+    font-size: medium;
+}
+
+.segundo-titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-decoration: underline;
+    /* Fonte da máquina */
+}
+
+.remove-underline{
+    text-decoration: none;
+}
+
