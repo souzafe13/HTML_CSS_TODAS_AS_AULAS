@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Fuggles&display=swap');
+
+.importandoFonteDoGoogle{
+   font-family: 'Caveat', cursive;
+   text-align: center;
+   font-size: xx-large;
+   font-style: italic;
+   font-weight: 400;
+}
+
+.LayoutPrimeiraParte{
+    height: 327px;
+    background-color: #465464;
+    /* border-style: solid;  */
+    border-radius: 5ch;
+    display: inline-block;
+    vertical-align: text-top;
+    width: 940px;
+    margin: auto;
+    font-family: 'Caveat', cursive;
+    text-align: justify;
+    font-size: 28px;
+    font-style: italic;
+    line-height: 1.5;
+    
+}
+.LauraPrimeiraImagem{
+    border-radius: 5ch;
+    float: left;
+}
+
+ .LauraTerceiraImagem{ 
+     border-radius: 5ch; 
+     float: right; 
+ } 
+
+  .LayoutSegundaParte{
+    height: 327px;
+    background-color: #465464;
+    /* border-style: solid;  */
+    border-radius: 5ch;
+    display: inline-block;
+    vertical-align: text-top;
+    width: 940px;
+    margin: auto;
+    font-family: 'Caveat', cursive;
+    text-align: justify;
+    font-size: 25px;
+    font-style: italic;
+    line-height: 1.5;  
+ }
+
+ .LauraQuartaImagem{
+    border-radius: 5ch;
+    float: right;
+ }
+
+ .stycky{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+ }
